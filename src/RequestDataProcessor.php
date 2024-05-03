@@ -1,6 +1,6 @@
 <?php
 
-namespace Freshbitsweb\LaravelLogEnhancer;
+namespace Improwised\LaravelLogEnhancer;
 
 class RequestDataProcessor
 {

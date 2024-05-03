@@ -1,8 +1,8 @@
 <?php
 
-namespace Freshbitsweb\LaravelLogEnhancer\Test;
+namespace Improwised\LaravelLogEnhancer\Test;
 
-use Freshbitsweb\LaravelLogEnhancer\RequestDataProcessor;
+use Improwised\LaravelLogEnhancer\RequestDataProcessor;
 use Illuminate\Log\Logger;
 use LogicException;
 use Monolog\Processor\MemoryUsageProcessor;
